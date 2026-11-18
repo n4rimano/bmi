@@ -1,3 +1,7 @@
+# Copyright (C) 2026 Nariman Seyfulayev
+# SPDX-License-Identifier: GPL-3.0-only
+
+
 def bmi(data: tuple)-> None | float:
     weight, height = data  # Unpacking
     if(height < 1.0 or height > 2.5 or weight < 20 or weight > 200):

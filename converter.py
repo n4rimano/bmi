@@ -1,3 +1,7 @@
+# Copyright (C) 2026 Nariman Seyfulayev
+# SPDX-License-Identifier: GPL-3.0-only
+
+
 from constants import LB, INCH, FOOT
 
 # Convert pounds to Kg

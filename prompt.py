@@ -1,3 +1,8 @@
+# Copyright (C) 2026 Nariman Seyfulayev
+# SPDX-License-Identifier: GPL-3.0-only
+
+
+
 def prompt_yes_no(question: str)-> True | False:
     while True:
         options = (("Y", "YES"), ("N", "NO"))

@@ -1,6 +1,6 @@
-# BMI Calculator
+# BMI Calculator - A Pythonn learning project
 
-A simple command-line BMI calculator written in Python 3.
+A simple command-line BMI calculator written in Python 3 as a learning project.
 
 ## Features
 
@@ -19,3 +19,8 @@ python main.py
 Follow the prompt to enter your measurements.
 
 ## Flowchart
+
+## License
+This project is licensed under the GNU General Public Lecense v3.0.
+See the [LICENSE](LICENSE) file for details.
+

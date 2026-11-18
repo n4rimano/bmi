@@ -20,6 +20,8 @@ Follow the prompt to enter your measurements.
 
 ## Flowchart
 
+![BMI Flowchart](docs/bmi_flowchart.png)
+
 ## License
 This project is licensed under the GNU General Public Lecense v3.0.
 See the [LICENSE](LICENSE) file for details.

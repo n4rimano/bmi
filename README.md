@@ -13,7 +13,7 @@ A simple command-line BMI calculator written in Python 3 as a learning project.
 
 Requires Python 3.
 ```bash
-python main.py
+python3 main.py
 ```
 
 Follow the prompt to enter your measurements.
